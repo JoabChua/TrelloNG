@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "title": "Column 1",
+      "id": 1
+    },
+    {
+      "title": "Column 2",
+      "id": 2
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "title": "Card 1",
+      "description": "Nulla porttitor erat a sollicitudin volutpat.",
+      "columnId": "1"
+    },
+    {
+      "id": 2,
+      "title": "Card 2",
+      "description": "Nulla porttitor erat a sollicitudin volutpat.",
+      "columnId": "1"
+    },
+    {
+      "id": 3,
+      "title": "Card 3",
+      "description": "Nulla porttitor erat a sollicitudin volutpat.",
+      "columnId": "1"
+    },
+    {
+      "title": "Card 4",
+      "description": "Suspendisse posuere ipsum at dui lacinia, ut faucibus lectus mollis.111",
+      "columnId": "2",
+      "id": 4
+    },
+    {
+      "title": "Card 5",
+      "description": "Suspendisse posuere ipsum at dui lacinia, ut faucibus lectus mollis.",
+      "columnId": "2",
+      "id": 5
+    }
+  ]
+}
