@@ -2,6 +2,8 @@
 
 This project was developed in light of using Angular and Angular/Material framework to do a simple Trello Application.
 
+## Usage
+
 #### To run this application on local machine
 
 1. git clone from this repo.
@@ -17,3 +19,7 @@ npm install
 npm start
 ```
 4. Head over to your browser. [click here](http://localhost:4200) to open.
+
+## Copyright
+
+This application is fully developed by JoabChua.
